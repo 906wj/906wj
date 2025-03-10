@@ -1,4 +1,14 @@
+```js
+import Developer from "loysnk";
+
+class AboutMe extends Developer {
+  name = "Matheus Felipe";
+  age = 19;
+  location = "Goiânia, GO";
+}
+```
 <div align="center">
+    <hr>
     <strong>I'm loysnk 👋🏻</strong>
     <hr>
     <div align="center">
@@ -12,12 +22,4 @@
     <hr>
 </div>
 
-```js
-import Developer from "loysnk";
 
-class AboutMe extends Developer {
-  name = "Matheus Felipe";
-  age = 19;
-  location = "Goiânia, GO";
-}
-```
