@@ -7,9 +7,7 @@ class AboutMe extends Developer {
   location = "Goiânia, GO";
 }
 ```
-<div align="center">
-    <strong>I'm loysnk 👋🏻</strong>
-    <hr>
+<div align="center"> 
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js"/>
     </div>
