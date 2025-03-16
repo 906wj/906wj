@@ -21,7 +21,9 @@ class AboutMe extends Developer {
     </div>
 </div>
 <hr>
-
-![](https://komarev.com/ghpvc/?username=906wj&color=red)
-
+<div  align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=906wj&color=red)
+  
+</div>
 <hr>
