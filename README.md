@@ -1,5 +1,4 @@
-<hr>
-
+ 
 ```js
 import Developer from "loysnk";
 
@@ -25,5 +24,4 @@ class AboutMe extends Developer {
   
   ![](https://komarev.com/ghpvc/?username=906wj&color=red)
   
-</div>
-<hr>
+</div> 
