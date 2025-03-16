@@ -1,3 +1,5 @@
+<hr>
+
 ```js
 import Developer from "loysnk";
 
@@ -17,5 +19,8 @@ class AboutMe extends Developer {
          <a href="https://www.instagram.com/loysnk" ><img src="https://skillicons.dev/icons?i=instagram"/></a>
     </div>
 </div>
+<hr>
 
+![](https://komarev.com/ghpvc/?username=906wj&color=red)
 
+<hr>
