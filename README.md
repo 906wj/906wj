@@ -13,3 +13,6 @@ class AboutMe extends Developer {
   ![](https://komarev.com/ghpvc/?username=906wj&color=red)
   
 </div> 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode" />
+</p>
